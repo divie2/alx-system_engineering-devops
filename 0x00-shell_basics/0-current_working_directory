@@ -1,2 +1,2 @@
 #!/bin/bash
-path="readlink -f '0x00-shell_basics'"
+path="readlink -f '/tmp/correction/1898372100594066267678983219124161002494_5/205/297360/0x00-shell_basics'"
