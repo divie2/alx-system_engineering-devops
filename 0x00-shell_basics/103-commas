@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -va -F
+ls -va -p
